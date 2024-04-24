@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*w2X7ExLGBzb-iznRW1rAVw.jpeg)
 <h1 align="center">Hi 👋, I'm Ahmet YILDIZ</h1>
-<h3 align="center">I'm an Native Android Developer and Mobile Developer</h3>
+<h3 align="center">I'm an Native Android Developer and Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
 - 🔭 I'm working as an Mobile Developer at **ETIYA Information Technologies**
